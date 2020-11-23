@@ -1,6 +1,9 @@
 # Fin_Sight
 An NLP based tool that extracts insights and user intent from data to leverage banking solutions on where to invest, improve and innovate📊
 
+# Prototype Link / demo video
+<a href="https://youtu.be/CQqzmFSwTlc"> Link </a>
+
 # Backdrop 
 According to Epsilon research, 80% of customers are more likely to do business with you if you provide personalized service. Banking is no exception. Our product anticipates customer needs in a more concrete manner by using latest technology to attain a high level of insight that can be set up in a matter of days, delivered in near real time and without the need for a data scientist to maintain the model.
 
